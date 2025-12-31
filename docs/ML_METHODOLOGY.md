@@ -99,7 +99,7 @@ Governance Alignment:
 
 Bias mitigation via stratified sampling across states/crops/seasons.
 
-##  Future Enhancements (Evaluator-Friendly)
+##  Future Enhancements
 
 - Regression models (quantile loss) for numeric yield ranges
 - Real-time inputs via IMD Weather API / satellite NDVI (MODIS)
