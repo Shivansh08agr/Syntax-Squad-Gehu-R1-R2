@@ -14,6 +14,9 @@ HackChrono is an agricultural commerce and advisory platform with:
 - Real-time collaboration via Socket.IO
 - Voice assistant for navigation and intent detection
 - Stripe integration for payments
+## System Architecture
+
+![HackChrono System Architecture](docs/system-design.png)
 
 ### Port Map
 - Frontend: 5173 (Vite dev server)
