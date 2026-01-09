@@ -16,7 +16,7 @@ HackChrono is an agricultural commerce and advisory platform with:
 - Stripe integration for payments
 ## System Architecture
 
-![HackChrono System Architecture](docs/5abaffd2-258b-45fe-94ca-ce5b04d7c507.png)
+![HackChrono System Architecture](5abaffd2-258b-45fe-94ca-ce5b04d7c507.png)
 
 ### Port Map
 - Frontend: 5173 (Vite dev server)
