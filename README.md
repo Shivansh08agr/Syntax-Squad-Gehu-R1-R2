@@ -24,6 +24,10 @@ System Architecture
 Path: `docs/SYSTEM_ARCHITECTURE.md`  
 Description: Overall system design, component interaction, data flow, and scalability considerations.
 
+Future Roadmap / Add-ons
+Path: `docs/FUTURE_ROADMAP.md`
+Description: Planned enhancements and scalability roadmap for DigiKhet, including adoption improvements (offline-first, multilingual/voice), AI/ML upgrades (disease detection, personalized advisory, price insights), governance-ready features (analytics dashboard, compliance logs), and future-tech extensions (IoT, insurance/credit, sustainability incentives).
+
 ---
 
 ## Repository Structure (High-Level)

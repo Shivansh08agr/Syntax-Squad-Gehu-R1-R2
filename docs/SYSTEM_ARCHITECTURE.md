@@ -1,10 +1,10 @@
-# HackChrono System Design
+# DigiKhet System Design
 
-This document provides a comprehensive system design for the HackChrono platform, covering architecture, key components, service interactions, data flow, and operational considerations. It consolidates details from the codebase and existing guides to serve as a single reference for developers and maintainers.
+This document provides a comprehensive system design for the DigiKhet platform, covering architecture, key components, service interactions, data flow, and operational considerations. It consolidates details from the codebase and existing guides to serve as a single reference for developers and maintainers.
 
 ## Overview
 
-HackChrono is an agricultural commerce and advisory platform with:
+DigiKhet is an agricultural commerce and advisory platform with:
 - A modern React frontend (Vite) for buyers and sellers
 - A Node.js/Express backend with MongoDB for core marketplace features
 - Python FastAPI microservices providing AI features:
@@ -16,7 +16,7 @@ HackChrono is an agricultural commerce and advisory platform with:
 - Stripe integration for payments
 ## System Architecture
 
-![HackChrono System Architecture](5abaffd2-258b-45fe-94ca-ce5b04d7c507.png)
+![DigiKhet System Architecture](System_Architecture.png)
 
 ### Port Map
 - Frontend: 5173 (Vite dev server)
